@@ -1,3 +1,5 @@
+**Русский** | [English](README.en.md)
+
 <img src="icon.png" width="88" height="88" alt="Иконка Milano">
 
 # Milano для Mac
