@@ -1,0 +1,10 @@
+# Public distribution repository: only this explicit file list may be staged.
+/*
+!/.gitignore
+!/README.md
+!/INSTALL.md
+!/PRIVACY.md
+!/RELEASE-NOTES.md
+!/THIRD-PARTY-NOTICES.md
+!/SHA256SUMS.txt
+!/icon.png
