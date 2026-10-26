@@ -1,6 +1,8 @@
 # Milano 1.0 RC8 — тестовая сборка
 
-[Русский](#русский) | [English](#english)
+[Русский](#russian) | [English](#english)
+
+<a name="russian"></a>
 
 ## Русский
 
@@ -13,6 +15,8 @@
 Скачайте **Milano-1.0-rc8-preview-arm64.dmg** в Assets, затем прочитайте [инструкцию установки](https://github.com/dennatello/milano/blob/main/INSTALL.md). Файл **SHA256SUMS.txt** содержит контрольную сумму образа. Автоматические архивы **Source code** содержат только материалы страницы; исходники приложения закрыты.
 
 Перед обновлением экспортируйте свои данные из Milano. Вопросы и повторяемые ошибки можно оставить в [Issues](https://github.com/dennatello/milano/issues).
+
+<a name="english"></a>
 
 ## English
 
